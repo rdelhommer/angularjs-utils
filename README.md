@@ -2,18 +2,24 @@
 Common services, directives, factories, etc. for an AngularJS app
 
 ## Installation
-### NPM
+### NPM or Yarn
 ```
 npm install @rdelhommer/ng-utils --save
 ```
-### Yarn
+or
 ```
 yarn add @rdelhommer/ng-utils
 ```
+
 ### Include
 ```
 <script src="node_modules/@rdelhommer/ng-core/dist/ng-core.js"></script>
 <script src="node_modules/@rdelhommer/ng/dist/ng.js"></script>
+```
+
+### Inject
+```
+angular.module('myRockinApp', ['rdelhommer.ng'];
 ```
 
 ## Components
