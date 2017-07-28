@@ -1,3 +1,4 @@
+// Entry point - Register angular modules
 (function () {
   'use strict';
 

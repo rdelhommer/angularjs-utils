@@ -1,5 +1,4 @@
 // Base object to provide event pub/sub functionality to other objects
-
 (function () {
   'use strict';
 

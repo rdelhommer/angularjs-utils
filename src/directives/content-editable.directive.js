@@ -1,3 +1,4 @@
+// Directive for content editable div
 (function () {
   'use strict';
 

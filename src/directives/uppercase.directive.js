@@ -1,3 +1,4 @@
+// Transforms all input text to uppercase
 (function () {
   'use strict';
 

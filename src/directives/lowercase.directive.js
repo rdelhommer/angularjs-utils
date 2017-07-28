@@ -1,3 +1,4 @@
+// Transforms all input text to lowercase
 (function () {
   'use strict';
 

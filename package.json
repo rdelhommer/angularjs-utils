@@ -1,6 +1,6 @@
 {
-  "name": "rdelhommer-angularjs-utils",
-  "version": "1.0.2",
+  "name": "@rdelhommer/ng",
+  "version": "1.0.3",
   "description": "Common services, directives, factories, etc. for an AngularJS app",
   "main": "app.js",
   "repository": "https://github.com/rdelhommer/angularjs-utils",

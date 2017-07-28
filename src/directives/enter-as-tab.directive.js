@@ -1,3 +1,4 @@
+// Go to next input when Enter is pressed instead of standard functionality
 (function () {
   'use strict';
 

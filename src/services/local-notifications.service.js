@@ -1,10 +1,12 @@
+// Service that keeps track of notification counts in localStorage
+// Handles increment and clearing of notification counts on state change
+// TODO: Store notification context
 (function () {
   'use strict';
 
   angular.module('rdelhommer.ng.services')
     .service('localNotifications', LocalNotifications);
 
-  // Service that keeps track of notifications in localStorage
   function LocalNotifications($window, $rootScope, eventEmitterFactory) {
     var storedNotificationIds = [];
     var clearStateToIdMap = {};
