@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@rdelhommer/ng-core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@rdelhommer/ng-core/-/ng-core-1.0.0.tgz#f1833c65b5c59f3b0de50aa010f7adcef4089617"
+
 "@uirouter/angularjs@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@uirouter/angularjs/-/angularjs-1.0.5.tgz#ba559378ac981255f9a96212b7ef51fb82ec49b8"
