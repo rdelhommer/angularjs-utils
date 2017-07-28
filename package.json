@@ -7,7 +7,7 @@
   "author": "Rick Delhommer <rdelhommer@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@rdelhommer/ng-core": "^1.0.0",
+    "@rdelhommer/ng-core": "^1.0.2",
     "@uirouter/angularjs": "^1.0.5"
   },
   "peerDependencies": {
