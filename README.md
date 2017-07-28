@@ -39,3 +39,4 @@ Service for tracking notification counts in local storage.
 
 ### TODO
 * Minification
+* Add documentation for each component
