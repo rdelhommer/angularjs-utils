@@ -4,7 +4,7 @@ var concat = require('gulp-concat')
 
 gulp.task('build-dist', function() {
   return gulp.src('src/**/*.js')
-    .pipe(concat('rdelhommer-angularjs-utils.js'))
+    .pipe(concat('ng.js'))
     .pipe(gulp.dest('dist'));
 });
 
