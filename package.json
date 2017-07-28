@@ -1,13 +1,20 @@
 {
   "name": "rdelhommer-angularjs-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common services, directives, factories, etc. for an AngularJS app",
   "main": "app.js",
   "repository": "https://github.com/rdelhommer/angularjs-utils",
   "author": "Rick Delhommer <rdelhommer@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@uirouter/angularjs": "^1.0.5",
-    "angular": "^1.6.5"
+    "@uirouter/angularjs": "^1.0.5"
+  },
+  "peerDependencies": {
+    "angular": ">=1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
   }
 }
