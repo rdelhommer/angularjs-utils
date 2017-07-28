@@ -1,9 +1,9 @@
 {
-  "name": "@rdelhommer/ng",
+  "name": "@rdelhommer/ng-utils",
   "version": "1.0.6",
   "description": "Common services, directives, factories, etc. for an AngularJS app",
   "main": "index.js",
-  "repository": "https://github.com/rdelhommer/angularjs-utils",
+  "repository": "https://github.com/rdelhommer/ng-utils",
   "author": "Rick Delhommer <rdelhommer@gmail.com>",
   "license": "MIT",
   "dependencies": {

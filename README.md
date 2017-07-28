@@ -1,2 +1,2 @@
-# angularjs-utils
-Common utilities for angularjs apps
+# ng-utils
+Common services, directives, factories, etc. for an AngularJS app
