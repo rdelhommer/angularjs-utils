@@ -2,6 +2,3 @@
 # yarn lockfile v1
 
 
-rdelhommer-angularjs-utils@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/rdelhommer-angularjs-utils/-/rdelhommer-angularjs-utils-1.0.1.tgz#a87502e2e03234a4d70e2e7fdff6b94eb4fdd466"
