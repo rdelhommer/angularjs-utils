@@ -6,5 +6,7 @@
   "repository": "https://github.com/rdelhommer/angularjs-utils",
   "author": "Rick Delhommer <rdelhommer@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
 }
